@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LiquidTranslator", "LiquidTranslator\LiquidTranslator.vcxproj", "{4C1D9A62-77B3-4E52-9E31-8A2F6C0D5B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1D9A62-77B3-4E52-9E31-8A2F6C0D5B47}.Debug|x64.ActiveCfg = Debug|x64
+		{4C1D9A62-77B3-4E52-9E31-8A2F6C0D5B47}.Debug|x64.Build.0 = Debug|x64
+		{4C1D9A62-77B3-4E52-9E31-8A2F6C0D5B47}.Release|x64.ActiveCfg = Release|x64
+		{4C1D9A62-77B3-4E52-9E31-8A2F6C0D5B47}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E99B974-2E33-4D67-AB85-F5239C2F5799}
+	EndGlobalSection
+EndGlobal
